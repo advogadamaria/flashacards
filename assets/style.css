@@ -1,8 +1,8 @@
 
 :root{
     --text-color: #ffffff;
-    --card-front-color: #581b1b;
-    --card-back-color: hsl(213, 93%, 39%);
+    --card-front-color: #161515;
+    --card-back-color: hsl(213, 100%, 51%);
     }
     
     body {
